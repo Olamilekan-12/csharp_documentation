@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/Introduction/Introduction.csproj",
-      "projectName": "Introduction",
-      "projectPath": "/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/Introduction/Introduction.csproj",
+      "projectUniqueName": "/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/tuples_and_types/tuples_and_types.csproj",
+      "projectName": "tuples_and_types",
+      "projectPath": "/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/tuples_and_types/tuples_and_types.csproj",
       "packagesPath": "/Users/belloolamilekan/.nuget/packages/",
-      "outputPath": "/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/Introduction/obj/",
+      "outputPath": "/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/tuples_and_types/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/belloolamilekan/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/tuples_and_types/bin/Debug/net10.0/tuples_and_types
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/tuples_and_types/bin/Debug/net10.0/tuples_and_types.deps.json
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/tuples_and_types/bin/Debug/net10.0/tuples_and_types.runtimeconfig.json
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/tuples_and_types/bin/Debug/net10.0/tuples_and_types.dll
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/tuples_and_types/bin/Debug/net10.0/tuples_and_types.pdb
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/tuples_and_types/obj/Debug/net10.0/tuples_and_types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/tuples_and_types/obj/Debug/net10.0/tuples_and_types.AssemblyInfoInputs.cache
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/tuples_and_types/obj/Debug/net10.0/tuples_and_types.AssemblyInfo.cs
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/tuples_and_types/obj/Debug/net10.0/tuples_and_types.csproj.CoreCompileInputs.cache
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/tuples_and_types/obj/Debug/net10.0/tuples_and_types.sourcelink.json
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/tuples_and_types/obj/Debug/net10.0/tuples_and_types.dll
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/tuples_and_types/obj/Debug/net10.0/refint/tuples_and_types.dll
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/tuples_and_types/obj/Debug/net10.0/tuples_and_types.pdb
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/tuples_and_types/obj/Debug/net10.0/tuples_and_types.genruntimeconfig.cache
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/tuples_and_types/obj/Debug/net10.0/ref/tuples_and_types.dll
