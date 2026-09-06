@@ -4,7 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        ExploreIf();
+        // ExploreIf();
+        // Counter();
+        // DoWhileLoop();
+        ForLoop();
         void ExploreIf()
         {
             int a = 5;
@@ -39,6 +42,47 @@ class Program
             {
                 Console.WriteLine("The answer is not greater than 10");
                 Console.WriteLine("And the first number is not greater than the second");
+            }
+        }
+
+        void Counter()
+        {
+            var counter = 0;
+            while (counter < 10)
+            {
+                Console.WriteLine($"Hello World! The counter is {counter}");
+                counter++;
+            }
+        }
+
+        void DoWhileLoop()
+        {
+            int counter = 0;
+            do
+            {
+                Console.WriteLine($"Hello World! The counter is {counter}");
+                counter++;
+            } while (counter < 10);
+        }
+
+        void ForLoop()
+        {
+            // for (int i = 0; i < 10; i++)
+            // {
+            //     Console.WriteLine($"The count for for loop is {i}");
+            // }
+            
+            // for (char column = 'a'; column < 'k'; column++)
+            // {
+            //     Console.WriteLine($"The column is {column}");
+            // }
+
+            for (int row = 1; row < 3; row++)
+            {
+                for (char column = 'a'; column < 'k'; column++)
+                {
+                    Console.WriteLine($"The cell is ({row}, {column})");
+                }
             }
         }
     }
