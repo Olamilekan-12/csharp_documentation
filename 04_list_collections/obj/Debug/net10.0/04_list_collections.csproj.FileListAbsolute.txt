@@ -1,0 +1,15 @@
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/04_list_collections/bin/Debug/net10.0/04_list_collections
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/04_list_collections/bin/Debug/net10.0/04_list_collections.deps.json
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/04_list_collections/bin/Debug/net10.0/04_list_collections.runtimeconfig.json
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/04_list_collections/bin/Debug/net10.0/04_list_collections.dll
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/04_list_collections/bin/Debug/net10.0/04_list_collections.pdb
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/04_list_collections/obj/Debug/net10.0/04_list_collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/04_list_collections/obj/Debug/net10.0/04_list_collections.AssemblyInfoInputs.cache
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/04_list_collections/obj/Debug/net10.0/04_list_collections.AssemblyInfo.cs
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/04_list_collections/obj/Debug/net10.0/04_list_collections.csproj.CoreCompileInputs.cache
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/04_list_collections/obj/Debug/net10.0/04_list_collections.sourcelink.json
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/04_list_collections/obj/Debug/net10.0/04_list_collections.dll
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/04_list_collections/obj/Debug/net10.0/refint/04_list_collections.dll
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/04_list_collections/obj/Debug/net10.0/04_list_collections.pdb
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/04_list_collections/obj/Debug/net10.0/04_list_collections.genruntimeconfig.cache
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/04_list_collections/obj/Debug/net10.0/ref/04_list_collections.dll
