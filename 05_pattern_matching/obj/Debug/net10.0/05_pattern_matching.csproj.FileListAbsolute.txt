@@ -1,0 +1,15 @@
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/05_pattern_matching/bin/Debug/net10.0/05_pattern_matching
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/05_pattern_matching/bin/Debug/net10.0/05_pattern_matching.deps.json
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/05_pattern_matching/bin/Debug/net10.0/05_pattern_matching.runtimeconfig.json
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/05_pattern_matching/bin/Debug/net10.0/05_pattern_matching.dll
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/05_pattern_matching/bin/Debug/net10.0/05_pattern_matching.pdb
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/05_pattern_matching/obj/Debug/net10.0/05_pattern_matching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/05_pattern_matching/obj/Debug/net10.0/05_pattern_matching.AssemblyInfoInputs.cache
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/05_pattern_matching/obj/Debug/net10.0/05_pattern_matching.AssemblyInfo.cs
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/05_pattern_matching/obj/Debug/net10.0/05_pattern_matching.csproj.CoreCompileInputs.cache
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/05_pattern_matching/obj/Debug/net10.0/05_pattern_matching.sourcelink.json
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/05_pattern_matching/obj/Debug/net10.0/05_pattern_matching.dll
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/05_pattern_matching/obj/Debug/net10.0/refint/05_pattern_matching.dll
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/05_pattern_matching/obj/Debug/net10.0/05_pattern_matching.pdb
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/05_pattern_matching/obj/Debug/net10.0/05_pattern_matching.genruntimeconfig.cache
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/05_pattern_matching/obj/Debug/net10.0/ref/05_pattern_matching.dll

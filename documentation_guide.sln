@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "branches_and_loops", "branc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_list_collections", "04_list_collections\04_list_collections.csproj", "{34B5BD36-2DAE-4AC6-8CD8-FE31EE2415F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_pattern_matching", "05_pattern_matching\05_pattern_matching.csproj", "{CE55ACBE-F1FE-4ED8-B697-D3A3C744C118}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{34B5BD36-2DAE-4AC6-8CD8-FE31EE2415F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34B5BD36-2DAE-4AC6-8CD8-FE31EE2415F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34B5BD36-2DAE-4AC6-8CD8-FE31EE2415F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE55ACBE-F1FE-4ED8-B697-D3A3C744C118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE55ACBE-F1FE-4ED8-B697-D3A3C744C118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE55ACBE-F1FE-4ED8-B697-D3A3C744C118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE55ACBE-F1FE-4ED8-B697-D3A3C744C118}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
