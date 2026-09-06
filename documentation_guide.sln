@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction", "Introductio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tuples_and_types", "tuples_and_types\tuples_and_types.csproj", "{86E69284-DCBE-4C14-92F4-4B7227EC550B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "branches_and_loops", "branches_and_loops\branches_and_loops.csproj", "{4ED29284-DC4E-403B-9904-1A46C6CDB626}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{86E69284-DCBE-4C14-92F4-4B7227EC550B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86E69284-DCBE-4C14-92F4-4B7227EC550B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86E69284-DCBE-4C14-92F4-4B7227EC550B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED29284-DC4E-403B-9904-1A46C6CDB626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED29284-DC4E-403B-9904-1A46C6CDB626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED29284-DC4E-403B-9904-1A46C6CDB626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED29284-DC4E-403B-9904-1A46C6CDB626}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

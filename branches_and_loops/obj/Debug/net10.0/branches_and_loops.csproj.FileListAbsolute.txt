@@ -1,0 +1,15 @@
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/branches_and_loops/bin/Debug/net10.0/branches_and_loops
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/branches_and_loops/bin/Debug/net10.0/branches_and_loops.deps.json
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/branches_and_loops/bin/Debug/net10.0/branches_and_loops.runtimeconfig.json
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/branches_and_loops/bin/Debug/net10.0/branches_and_loops.dll
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/branches_and_loops/bin/Debug/net10.0/branches_and_loops.pdb
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/branches_and_loops/obj/Debug/net10.0/branches_and_loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/branches_and_loops/obj/Debug/net10.0/branches_and_loops.AssemblyInfoInputs.cache
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/branches_and_loops/obj/Debug/net10.0/branches_and_loops.AssemblyInfo.cs
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/branches_and_loops/obj/Debug/net10.0/branches_and_loops.csproj.CoreCompileInputs.cache
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/branches_and_loops/obj/Debug/net10.0/branches_and_loops.sourcelink.json
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/branches_and_loops/obj/Debug/net10.0/branches_and_loops.dll
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/branches_and_loops/obj/Debug/net10.0/refint/branches_and_loops.dll
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/branches_and_loops/obj/Debug/net10.0/branches_and_loops.pdb
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/branches_and_loops/obj/Debug/net10.0/branches_and_loops.genruntimeconfig.cache
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/branches_and_loops/obj/Debug/net10.0/ref/branches_and_loops.dll
