@@ -1,0 +1,15 @@
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/03_class_two/bin/Debug/net10.0/03_class_two
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/03_class_two/bin/Debug/net10.0/03_class_two.deps.json
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/03_class_two/bin/Debug/net10.0/03_class_two.runtimeconfig.json
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/03_class_two/bin/Debug/net10.0/03_class_two.dll
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/03_class_two/bin/Debug/net10.0/03_class_two.pdb
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/03_class_two/obj/Debug/net10.0/03_class_two.GeneratedMSBuildEditorConfig.editorconfig
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/03_class_two/obj/Debug/net10.0/03_class_two.AssemblyInfoInputs.cache
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/03_class_two/obj/Debug/net10.0/03_class_two.AssemblyInfo.cs
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/03_class_two/obj/Debug/net10.0/03_class_two.csproj.CoreCompileInputs.cache
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/03_class_two/obj/Debug/net10.0/03_class_two.sourcelink.json
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/03_class_two/obj/Debug/net10.0/03_class_two.dll
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/03_class_two/obj/Debug/net10.0/refint/03_class_two.dll
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/03_class_two/obj/Debug/net10.0/03_class_two.pdb
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/03_class_two/obj/Debug/net10.0/03_class_two.genruntimeconfig.cache
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/03_class_two/obj/Debug/net10.0/ref/03_class_two.dll
