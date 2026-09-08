@@ -1,0 +1,15 @@
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/06_methods/bin/Debug/net10.0/06_methods
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/06_methods/bin/Debug/net10.0/06_methods.deps.json
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/06_methods/bin/Debug/net10.0/06_methods.runtimeconfig.json
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/06_methods/bin/Debug/net10.0/06_methods.dll
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/06_methods/bin/Debug/net10.0/06_methods.pdb
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/06_methods/obj/Debug/net10.0/06_methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/06_methods/obj/Debug/net10.0/06_methods.AssemblyInfoInputs.cache
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/06_methods/obj/Debug/net10.0/06_methods.AssemblyInfo.cs
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/06_methods/obj/Debug/net10.0/06_methods.csproj.CoreCompileInputs.cache
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/06_methods/obj/Debug/net10.0/06_methods.sourcelink.json
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/06_methods/obj/Debug/net10.0/06_methods.dll
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/06_methods/obj/Debug/net10.0/refint/06_methods.dll
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/06_methods/obj/Debug/net10.0/06_methods.pdb
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/06_methods/obj/Debug/net10.0/06_methods.genruntimeconfig.cache
+/Users/belloolamilekan/Desktop/csharp_documentation/documentation_guide/06_methods/obj/Debug/net10.0/ref/06_methods.dll
